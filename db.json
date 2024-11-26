@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "text": "Learn React",
+      "completed": false
+    },
+    {
+      "id": "d5ec315a-36a8-4bf5-a337-3d5323c708b7",
+      "text": "belajar",
+      "completed": false
+    },
+    {
+      "id": "ab63a616-734f-418b-aafe-9a20535c7f56",
+      "text": "mencuci",
+      "completed": false
+    },
+    {
+      "id": "08b8cbcd-a9d6-4495-b630-c43233333cdc",
+      "text": "membaca",
+      "completed": false
+    },
+    {
+      "id": "44370917-de64-46ad-84d6-b34dc42fbdb6",
+      "text": "scroll tiktok",
+      "completed": false
+    },
+    {
+      "id": "2c094aef-8c56-4426-8406-7cded8796f43",
+      "text": "masuk",
+      "completed": false
+    },
+    {
+      "id": "993756ac-38c4-4de7-bb68-7083cd6c3c91",
+      "text": "masuk",
+      "completed": false
+    }
+  ]
+}
